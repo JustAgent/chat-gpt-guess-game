@@ -109,6 +109,7 @@ function App() {
         {messages.map((message) => (
           <ChatLine theme={message.bot} message={message.message} />
         ))}
+        <div className="height150"></div>
       </div>
       <InputForm />
     </div>
