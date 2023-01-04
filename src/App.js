@@ -18,6 +18,90 @@ function App() {
       message:
         "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
     },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "If you want to disable the quick info hints in Visual Studio Code, but the editor.quickSuggestions option is expecting an object rather than a boolean value, you can set the value of the enabled property of the object to false.",
+    },
+    {
+      bot: false,
+      message: "require object instead false",
+    },
+    {
+      bot: true,
+      message:
+        "requsadasdasdasdasdsadjaskdnaskjdaskdhaskdire object instead false",
+    },
   ]);
   return (
     <div className="app">
